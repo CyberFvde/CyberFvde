@@ -14,5 +14,5 @@ I've been researching cyber security for 7+ years with a specialization in Cloud
 
 📄 Know about my experiences www.linkedin.com/in/tonyfadayomi
 
-- ⚡ Fun fact: Im a first generation Nigerian American and I am an avid gamer. PSN=SasukeFade
+⚡ Fun fact: Im a first generation Nigerian American and I am an avid gamer. PSN=SasukeFade
 -->
