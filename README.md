@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Tony Fadayomi
 
-<!--
-**CyberFvde/CyberFvde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Security Engineer`**
 
-Here are some ideas to get you started:
+I've been researching cyber security for 7+ years with a specialization in Cloud, Automation, Pentesting, AWS, Infrastructure& Security/Network Architecture. I'm now honing my skillset in cloud threat detections & cloud development as well as studying my curiosities in my spare time such as Machine Learning, Blockchain & AR/VR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on Automation projects with python
+
+📝 I regularly write articles on Medium @ https://medium.com/@cybersecfade
+
+💬 Ask me about Cybersecurity & Cloud Security
+
+📫 How to reach me cybersecfade@gmail.com
+
+📄 Know about my experiences www.linkedin.com/in/tonyfadayomi
+
+- ⚡ Fun fact: Im a first generation Nigerian American and I am an avid gamer. PSN=SasukeFade
 -->
