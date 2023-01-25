@@ -12,6 +12,4 @@ I've been researching cyber security for 5+ years with a specialization in Cloud
 
 📫 How to reach me cybersecfade@gmail.com
 
-📄 Know about my experiences www.linkedin.com/in/tonyfadayomi
-
 ⚡ Fun fact: Im a first generation Nigerian American and I am an avid gamer (PSN=SasukeFade)
