@@ -2,13 +2,13 @@
 
 **`Security Engineer`**
 
-I've been researching cyber security for 5+ years with a specialization in Cloud, Automation, Pentesting, AWS, Infrastructure. I'm now honing my skillset in cloud threat detections & cloud development as well as studying my curiosities in my spare time such as CTFs.
+As a passionate Application Security Engineer with over 5+ years of experience, I strive to keep my skills sharp and my knowledge up-to-date in order to provide the best protection for my organization's systems and data. 
 
-🔭 I’m currently working on Automation projects with Infrastructure as Code(IaC).
+🔭 I’m currently working on exploit developement & secure software developement.
 
 📝 I regularly write articles on Medium @ https://medium.com/@fadeintotech
 
-💬 Ask me about Cloud Security
+💬 Ask me about Application Security
 
 📫 How to reach me cybersecfade@gmail.com
 
